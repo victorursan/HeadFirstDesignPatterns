@@ -1,0 +1,224 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2083" measuredH="494" mockupW="2056" mockupH="486">
+<controls>
+<control controlID="40" controlTypeID="com.balsamiq.mockups::Canvas" x="478" y="61" w="266" h="133" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+<control controlID="41" controlTypeID="com.balsamiq.mockups::TextInput" x="478" y="61" w="266" h="-1" measuredW="74" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>Character</text>
+</controlProperties>
+</control>
+<control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="478" y="88" w="266" h="-1" measuredW="162" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>WeaponBehavior%20weapon</text>
+</controlProperties>
+</control>
+<control controlID="44" controlTypeID="com.balsamiq.mockups::TextArea" x="480" y="113" w="262" h="81" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+<controlProperties>
+<text>fight%28%29%3B</text>
+</controlProperties>
+</control>
+<control controlID="45" controlTypeID="com.balsamiq.mockups::Canvas" x="607" y="361" w="266" h="133" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+<control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="607" y="361" w="266" h="-1" measuredW="54" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>Queen</text>
+</controlProperties>
+</control>
+<control controlID="48" controlTypeID="com.balsamiq.mockups::TextArea" x="609" y="388" w="262" h="106" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+<controlProperties>
+<text>fight%28%29%20%7B...%7D</text>
+</controlProperties>
+</control>
+<control controlID="53" controlTypeID="com.balsamiq.mockups::Canvas" x="884" y="361" w="266" h="133" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+<control controlID="54" controlTypeID="com.balsamiq.mockups::TextInput" x="884" y="361" w="266" h="-1" measuredW="42" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>King</text>
+</controlProperties>
+</control>
+<control controlID="55" controlTypeID="com.balsamiq.mockups::TextArea" x="886" y="388" w="262" h="106" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+<controlProperties>
+<text>fight%28%29%20%7B...%7D</text>
+</controlProperties>
+</control>
+<control controlID="56" controlTypeID="com.balsamiq.mockups::Canvas" x="1763" y="8" w="266" h="133" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+<control controlID="57" controlTypeID="com.balsamiq.mockups::TextInput" x="1763" y="8" w="266" h="-1" measuredW="95" measuredH="27" zOrder="11" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>KnifeBehavior</text>
+</controlProperties>
+</control>
+<control controlID="58" controlTypeID="com.balsamiq.mockups::TextArea" x="1765" y="35" w="262" h="106" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+<controlProperties>
+<text>useWeapon%28%29%20%7B//implements%20cutting%20with%20a%20knife%7D</text>
+</controlProperties>
+</control>
+<control controlID="59" controlTypeID="com.balsamiq.mockups::Canvas" x="327" y="360" w="266" h="133" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1"/>
+<control controlID="60" controlTypeID="com.balsamiq.mockups::TextInput" x="327" y="360" w="266" h="-1" measuredW="53" measuredH="27" zOrder="14" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>Knight</text>
+</controlProperties>
+</control>
+<control controlID="61" controlTypeID="com.balsamiq.mockups::TextArea" x="329" y="387" w="262" h="106" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+<controlProperties>
+<text>fight%28%29%20%7B...%7D</text>
+</controlProperties>
+</control>
+<control controlID="62" controlTypeID="com.balsamiq.mockups::Canvas" x="1538" y="260" w="266" h="133" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
+<control controlID="63" controlTypeID="com.balsamiq.mockups::TextInput" x="1538" y="260" w="266" h="-1" measuredW="102" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>SwordBehavior</text>
+</controlProperties>
+</control>
+<control controlID="64" controlTypeID="com.balsamiq.mockups::TextArea" x="1540" y="287" w="262" h="106" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+<controlProperties>
+<text>useWeapon%28%29%20%7B//implements%20swinging%20a%20sword%7D</text>
+</controlProperties>
+</control>
+<control controlID="65" controlTypeID="com.balsamiq.mockups::Canvas" x="1260" y="260" w="266" h="133" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
+<control controlID="66" controlTypeID="com.balsamiq.mockups::TextInput" x="1260" y="260" w="266" h="-1" measuredW="88" measuredH="27" zOrder="20" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>AxeBehavior</text>
+</controlProperties>
+</control>
+<control controlID="67" controlTypeID="com.balsamiq.mockups::TextArea" x="1262" y="287" w="262" h="106" measuredW="200" measuredH="140" zOrder="21" locked="false" isInGroup="-1">
+<controlProperties>
+<text>useWeapon%28%29%20%7B//implements%20choping%20with%20an%20axe%7D</text>
+</controlProperties>
+</control>
+<control controlID="68" controlTypeID="com.balsamiq.mockups::Canvas" x="1817" y="194" w="266" h="133" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1"/>
+<control controlID="69" controlTypeID="com.balsamiq.mockups::TextInput" x="1817" y="194" w="266" h="-1" measuredW="147" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>BowAndArrowBehavior</text>
+</controlProperties>
+</control>
+<control controlID="70" controlTypeID="com.balsamiq.mockups::TextArea" x="1819" y="221" w="262" h="106" measuredW="200" measuredH="140" zOrder="24" locked="false" isInGroup="-1">
+<controlProperties>
+<text>useWeapon%28%29%20%7B//implements%20shooting%20arrow%20with%20a%20bow%7D</text>
+</controlProperties>
+</control>
+<control controlID="71" controlTypeID="com.balsamiq.mockups::Canvas" x="49" y="361" w="266" h="133" measuredW="100" measuredH="70" zOrder="25" locked="false" isInGroup="-1"/>
+<control controlID="72" controlTypeID="com.balsamiq.mockups::TextInput" x="49" y="361" w="266" h="-1" measuredW="39" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>Troll</text>
+</controlProperties>
+</control>
+<control controlID="73" controlTypeID="com.balsamiq.mockups::TextArea" x="51" y="388" w="262" h="106" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1">
+<controlProperties>
+<text>fight%28%29%20%7B...%7D</text>
+</controlProperties>
+</control>
+<control controlID="74" controlTypeID="com.balsamiq.mockups::Canvas" x="1415" y="68" w="266" h="133" measuredW="100" measuredH="70" zOrder="28" locked="false" isInGroup="-1"/>
+<control controlID="76" controlTypeID="com.balsamiq.mockups::TextArea" x="1415" y="128" w="266" h="73" measuredW="200" measuredH="140" zOrder="29" locked="false" isInGroup="-1">
+<controlProperties>
+<text>useWeapon%28%29%3B</text>
+</controlProperties>
+</control>
+<control controlID="77" controlTypeID="com.balsamiq.mockups::TextArea" x="1415" y="72" w="264" h="56" measuredW="200" measuredH="140" zOrder="30" locked="false" isInGroup="-1">
+<controlProperties>
+<align>center</align>
+<text>%3C%3Cinterface%3E%3E%0AWeaponBehavior</text>
+</controlProperties>
+</control>
+<control controlID="78" controlTypeID="com.balsamiq.mockups::TextArea" x="27" y="69" w="350" h="116" measuredW="200" measuredH="140" zOrder="31" locked="false" isInGroup="-1">
+<controlProperties>
+<size>18</size>
+<text>setWeapon%28WeaponBehavior%20w%29%20%7B%0A%20%20this.weapon%20%3D%20w%3B%0A%7D</text>
+</controlProperties>
+</control>
+<control controlID="79" controlTypeID="com.balsamiq.mockups::Arrow" x="234" y="185" w="244" h="176" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+<controlProperties>
+<backgroundAlpha>1</backgroundAlpha>
+<color>0</color>
+<curvature>0</curvature>
+<direction>bottom</direction>
+<leftArrow>false</leftArrow>
+<rightArrow>true</rightArrow>
+<text>extend</text>
+</controlProperties>
+</control>
+<control controlID="80" controlTypeID="com.balsamiq.mockups::Arrow" x="657" y="201" w="10" h="157" measuredW="150" measuredH="100" zOrder="33" locked="false" isInGroup="-1">
+<controlProperties>
+<backgroundAlpha>1</backgroundAlpha>
+<color>0</color>
+<curvature>0</curvature>
+<direction>bottom</direction>
+<leftArrow>false</leftArrow>
+<rightArrow>true</rightArrow>
+<text>extend</text>
+</controlProperties>
+</control>
+<control controlID="81" controlTypeID="com.balsamiq.mockups::Arrow" x="461" y="194" w="117" h="163" measuredW="150" measuredH="100" zOrder="34" locked="false" isInGroup="-1">
+<controlProperties>
+<backgroundAlpha>1</backgroundAlpha>
+<color>0</color>
+<curvature>0</curvature>
+<direction>bottom</direction>
+<leftArrow>false</leftArrow>
+<rightArrow>true</rightArrow>
+<text>extend</text>
+</controlProperties>
+</control>
+<control controlID="82" controlTypeID="com.balsamiq.mockups::Arrow" x="729" y="201" w="243" h="153" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+<controlProperties>
+<backgroundAlpha>1</backgroundAlpha>
+<color>0</color>
+<curvature>0</curvature>
+<direction>top</direction>
+<leftArrow>true</leftArrow>
+<rightArrow>false</rightArrow>
+<text>extend</text>
+</controlProperties>
+</control>
+<control controlID="83" controlTypeID="com.balsamiq.mockups::Arrow" x="734" y="130" w="675" h="30" measuredW="150" measuredH="100" zOrder="36" locked="false" isInGroup="-1">
+<controlProperties>
+<curvature>0</curvature>
+<leftArrow>false</leftArrow>
+<text>HAS-A</text>
+</controlProperties>
+</control>
+<control controlID="84" controlTypeID="com.balsamiq.mockups::Arrow" x="1609" y="194" w="57" h="66" measuredW="150" measuredH="100" zOrder="37" locked="false" isInGroup="-1">
+<controlProperties>
+<curvature>0</curvature>
+<rightArrow>false</rightArrow>
+<stroke>dotted</stroke>
+</controlProperties>
+</control>
+<control controlID="85" controlTypeID="com.balsamiq.mockups::Arrow" x="1681" y="160" w="139" h="80" measuredW="150" measuredH="100" zOrder="38" locked="false" isInGroup="-1">
+<controlProperties>
+<curvature>0</curvature>
+<rightArrow>false</rightArrow>
+<stroke>dotted</stroke>
+</controlProperties>
+</control>
+<control controlID="86" controlTypeID="com.balsamiq.mockups::Arrow" x="1676" y="110" w="96" h="23" measuredW="150" measuredH="100" zOrder="39" locked="false" isInGroup="-1">
+<controlProperties>
+<curvature>0</curvature>
+<rightArrow>false</rightArrow>
+<stroke>dotted</stroke>
+</controlProperties>
+</control>
+<control controlID="87" controlTypeID="com.balsamiq.mockups::Arrow" x="1484" y="194" w="10" h="81" measuredW="150" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+<controlProperties>
+<curvature>0</curvature>
+<rightArrow>false</rightArrow>
+<stroke>dotted</stroke>
+</controlProperties>
+</control>
+<control controlID="88" controlTypeID="com.balsamiq.mockups::Arrow" x="377" y="128" w="107" h="43" measuredW="150" measuredH="100" zOrder="41" locked="false" isInGroup="-1">
+<controlProperties>
+<curvature>0</curvature>
+<leftArrow>false</leftArrow>
+<rightArrow>true</rightArrow>
+<stroke>dashed</stroke>
+<text/>
+</controlProperties>
+</control>
+</controls>
+</mockup>

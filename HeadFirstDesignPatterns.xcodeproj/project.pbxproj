@@ -8,11 +8,52 @@
 
 /* Begin PBXBuildFile section */
 		5761D86E19DB1796007DD786 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D86D19DB1796007DD786 /* AppDelegate.swift */; };
-		5761D87019DB1796007DD786 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D86F19DB1796007DD786 /* ViewController.swift */; };
-		5761D87319DB1796007DD786 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5761D87119DB1796007DD786 /* Main.storyboard */; };
-		5761D87519DB1796007DD786 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5761D87419DB1796007DD786 /* Images.xcassets */; };
-		5761D87819DB1796007DD786 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5761D87619DB1796007DD786 /* LaunchScreen.xib */; };
 		5761D88419DB1796007DD786 /* HeadFirstDesignPatternsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D88319DB1796007DD786 /* HeadFirstDesignPatternsTests.swift */; };
+		5761D88E19DB18E7007DD786 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D88D19DB18E7007DD786 /* main.swift */; };
+		5761D8BB19DB190E007DD786 /* CheesePizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D88F19DB190E007DD786 /* CheesePizza.swift */; };
+		5761D8BC19DB190E007DD786 /* GreekPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89019DB190E007DD786 /* GreekPizza.swift */; };
+		5761D8BD19DB190E007DD786 /* PepperoniPizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89119DB190E007DD786 /* PepperoniPizza.swift */; };
+		5761D8BE19DB190E007DD786 /* Pizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89219DB190E007DD786 /* Pizza.swift */; };
+		5761D8BF19DB190E007DD786 /* PizzaOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89319DB190E007DD786 /* PizzaOrder.swift */; };
+		5761D8C019DB190E007DD786 /* Character in Resources */ = {isa = PBXBuildFile; fileRef = 5761D89419DB190E007DD786 /* Character */; };
+		5761D8C119DB190E007DD786 /* DecoyDuck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89519DB190E007DD786 /* DecoyDuck.swift */; };
+		5761D8C219DB190E007DD786 /* DisplayElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89619DB190E007DD786 /* DisplayElement.swift */; };
+		5761D8C319DB190E007DD786 /* Duck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89719DB190E007DD786 /* Duck.swift */; };
+		5761D8C419DB190E007DD786 /* DuckSimulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89819DB190E007DD786 /* DuckSimulator.swift */; };
+		5761D8C519DB190E007DD786 /* FlyBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89919DB190E007DD786 /* FlyBehavior.swift */; };
+		5761D8C619DB190E007DD786 /* FlyNoWay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89A19DB190E007DD786 /* FlyNoWay.swift */; };
+		5761D8C719DB190E007DD786 /* FlyRocketPowered.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89B19DB190E007DD786 /* FlyRocketPowered.swift */; };
+		5761D8C819DB190E007DD786 /* FlyWithWings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89C19DB190E007DD786 /* FlyWithWings.swift */; };
+		5761D8C919DB190E007DD786 /* MallardDuck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89D19DB190E007DD786 /* MallardDuck.swift */; };
+		5761D8CA19DB190E007DD786 /* ModelDuck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89E19DB190E007DD786 /* ModelDuck.swift */; };
+		5761D8CB19DB190E007DD786 /* MuteQuack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D89F19DB190E007DD786 /* MuteQuack.swift */; };
+		5761D8CC19DB190E007DD786 /* Quack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A019DB190E007DD786 /* Quack.swift */; };
+		5761D8CD19DB190E007DD786 /* QuackBehavior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A119DB190E007DD786 /* QuackBehavior.swift */; };
+		5761D8CE19DB190E007DD786 /* RedheadDuck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A219DB190E007DD786 /* RedheadDuck.swift */; };
+		5761D8CF19DB190E007DD786 /* RubberDuck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A319DB190E007DD786 /* RubberDuck.swift */; };
+		5761D8D019DB190E007DD786 /* Squeak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A419DB190E007DD786 /* Squeak.swift */; };
+		5761D8D119DB190E007DD786 /* myImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 5761D8A519DB190E007DD786 /* myImage.png */; };
+		5761D8D219DB190E007DD786 /* Beverage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A619DB190E007DD786 /* Beverage.swift */; };
+		5761D8D319DB190E007DD786 /* CondimentDecorator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A719DB190E007DD786 /* CondimentDecorator.swift */; };
+		5761D8D419DB190E007DD786 /* CurrentConditionsDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A819DB190E007DD786 /* CurrentConditionsDisplay.swift */; };
+		5761D8D519DB190E007DD786 /* DarkRoast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8A919DB190E007DD786 /* DarkRoast.swift */; };
+		5761D8D619DB190E007DD786 /* Decaf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8AA19DB190E007DD786 /* Decaf.swift */; };
+		5761D8D719DB190E007DD786 /* Espresso.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8AB19DB190E007DD786 /* Espresso.swift */; };
+		5761D8D819DB190E007DD786 /* HouseBlend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8AC19DB190E007DD786 /* HouseBlend.swift */; };
+		5761D8D919DB190E007DD786 /* Mocha.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8AD19DB190E007DD786 /* Mocha.swift */; };
+		5761D8DA19DB190E007DD786 /* Size.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8AE19DB190E007DD786 /* Size.swift */; };
+		5761D8DB19DB190E007DD786 /* Soy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8AF19DB190E007DD786 /* Soy.swift */; };
+		5761D8DC19DB190E007DD786 /* StarbuzzCoffeeSimulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B019DB190E007DD786 /* StarbuzzCoffeeSimulator.swift */; };
+		5761D8DD19DB190E007DD786 /* SteamedMilk.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B119DB190E007DD786 /* SteamedMilk.swift */; };
+		5761D8DE19DB190E007DD786 /* Whip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B219DB190E007DD786 /* Whip.swift */; };
+		5761D8DF19DB190E007DD786 /* ForecastDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B319DB190E007DD786 /* ForecastDisplay.swift */; };
+		5761D8E019DB190E007DD786 /* HeatIndexDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B419DB190E007DD786 /* HeatIndexDisplay.swift */; };
+		5761D8E119DB190E007DD786 /* Observer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B519DB190E007DD786 /* Observer.swift */; };
+		5761D8E219DB190E007DD786 /* StatisticsDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B619DB190E007DD786 /* StatisticsDisplay.swift */; };
+		5761D8E319DB190E007DD786 /* Subject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B719DB190E007DD786 /* Subject.swift */; };
+		5761D8E419DB190E007DD786 /* ThirdPartyDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B819DB190E007DD786 /* ThirdPartyDisplay.swift */; };
+		5761D8E519DB190E007DD786 /* WeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8B919DB190E007DD786 /* WeatherData.swift */; };
+		5761D8E619DB190E007DD786 /* WeatherSimulator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5761D8BA19DB190E007DD786 /* WeatherSimulator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,13 +70,54 @@
 		5761D86819DB1796007DD786 /* HeadFirstDesignPatterns.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HeadFirstDesignPatterns.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5761D86C19DB1796007DD786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5761D86D19DB1796007DD786 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5761D86F19DB1796007DD786 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5761D87219DB1796007DD786 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5761D87419DB1796007DD786 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		5761D87719DB1796007DD786 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		5761D87D19DB1796007DD786 /* HeadFirstDesignPatternsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HeadFirstDesignPatternsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5761D88219DB1796007DD786 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5761D88319DB1796007DD786 /* HeadFirstDesignPatternsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeadFirstDesignPatternsTests.swift; sourceTree = "<group>"; };
+		5761D88D19DB18E7007DD786 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		5761D88F19DB190E007DD786 /* CheesePizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheesePizza.swift; sourceTree = "<group>"; };
+		5761D89019DB190E007DD786 /* GreekPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreekPizza.swift; sourceTree = "<group>"; };
+		5761D89119DB190E007DD786 /* PepperoniPizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PepperoniPizza.swift; sourceTree = "<group>"; };
+		5761D89219DB190E007DD786 /* Pizza.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pizza.swift; sourceTree = "<group>"; };
+		5761D89319DB190E007DD786 /* PizzaOrder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PizzaOrder.swift; sourceTree = "<group>"; };
+		5761D89419DB190E007DD786 /* Character */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Character; sourceTree = "<group>"; };
+		5761D89519DB190E007DD786 /* DecoyDuck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecoyDuck.swift; sourceTree = "<group>"; };
+		5761D89619DB190E007DD786 /* DisplayElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayElement.swift; sourceTree = "<group>"; };
+		5761D89719DB190E007DD786 /* Duck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Duck.swift; sourceTree = "<group>"; };
+		5761D89819DB190E007DD786 /* DuckSimulator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DuckSimulator.swift; sourceTree = "<group>"; };
+		5761D89919DB190E007DD786 /* FlyBehavior.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyBehavior.swift; sourceTree = "<group>"; };
+		5761D89A19DB190E007DD786 /* FlyNoWay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyNoWay.swift; sourceTree = "<group>"; };
+		5761D89B19DB190E007DD786 /* FlyRocketPowered.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyRocketPowered.swift; sourceTree = "<group>"; };
+		5761D89C19DB190E007DD786 /* FlyWithWings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlyWithWings.swift; sourceTree = "<group>"; };
+		5761D89D19DB190E007DD786 /* MallardDuck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MallardDuck.swift; sourceTree = "<group>"; };
+		5761D89E19DB190E007DD786 /* ModelDuck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelDuck.swift; sourceTree = "<group>"; };
+		5761D89F19DB190E007DD786 /* MuteQuack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MuteQuack.swift; sourceTree = "<group>"; };
+		5761D8A019DB190E007DD786 /* Quack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Quack.swift; sourceTree = "<group>"; };
+		5761D8A119DB190E007DD786 /* QuackBehavior.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuackBehavior.swift; sourceTree = "<group>"; };
+		5761D8A219DB190E007DD786 /* RedheadDuck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedheadDuck.swift; sourceTree = "<group>"; };
+		5761D8A319DB190E007DD786 /* RubberDuck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RubberDuck.swift; sourceTree = "<group>"; };
+		5761D8A419DB190E007DD786 /* Squeak.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Squeak.swift; sourceTree = "<group>"; };
+		5761D8A519DB190E007DD786 /* myImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myImage.png; sourceTree = "<group>"; };
+		5761D8A619DB190E007DD786 /* Beverage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Beverage.swift; sourceTree = "<group>"; };
+		5761D8A719DB190E007DD786 /* CondimentDecorator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CondimentDecorator.swift; sourceTree = "<group>"; };
+		5761D8A819DB190E007DD786 /* CurrentConditionsDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentConditionsDisplay.swift; sourceTree = "<group>"; };
+		5761D8A919DB190E007DD786 /* DarkRoast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DarkRoast.swift; sourceTree = "<group>"; };
+		5761D8AA19DB190E007DD786 /* Decaf.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Decaf.swift; sourceTree = "<group>"; };
+		5761D8AB19DB190E007DD786 /* Espresso.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Espresso.swift; sourceTree = "<group>"; };
+		5761D8AC19DB190E007DD786 /* HouseBlend.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HouseBlend.swift; sourceTree = "<group>"; };
+		5761D8AD19DB190E007DD786 /* Mocha.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mocha.swift; sourceTree = "<group>"; };
+		5761D8AE19DB190E007DD786 /* Size.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Size.swift; sourceTree = "<group>"; };
+		5761D8AF19DB190E007DD786 /* Soy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Soy.swift; sourceTree = "<group>"; };
+		5761D8B019DB190E007DD786 /* StarbuzzCoffeeSimulator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarbuzzCoffeeSimulator.swift; sourceTree = "<group>"; };
+		5761D8B119DB190E007DD786 /* SteamedMilk.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SteamedMilk.swift; sourceTree = "<group>"; };
+		5761D8B219DB190E007DD786 /* Whip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Whip.swift; sourceTree = "<group>"; };
+		5761D8B319DB190E007DD786 /* ForecastDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForecastDisplay.swift; sourceTree = "<group>"; };
+		5761D8B419DB190E007DD786 /* HeatIndexDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeatIndexDisplay.swift; sourceTree = "<group>"; };
+		5761D8B519DB190E007DD786 /* Observer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Observer.swift; sourceTree = "<group>"; };
+		5761D8B619DB190E007DD786 /* StatisticsDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticsDisplay.swift; sourceTree = "<group>"; };
+		5761D8B719DB190E007DD786 /* Subject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Subject.swift; sourceTree = "<group>"; };
+		5761D8B819DB190E007DD786 /* ThirdPartyDisplay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdPartyDisplay.swift; sourceTree = "<group>"; };
+		5761D8B919DB190E007DD786 /* WeatherData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherData.swift; sourceTree = "<group>"; };
+		5761D8BA19DB190E007DD786 /* WeatherSimulator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherSimulator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,11 +159,52 @@
 		5761D86A19DB1796007DD786 /* HeadFirstDesignPatterns */ = {
 			isa = PBXGroup;
 			children = (
+				5761D88F19DB190E007DD786 /* CheesePizza.swift */,
+				5761D89019DB190E007DD786 /* GreekPizza.swift */,
+				5761D89119DB190E007DD786 /* PepperoniPizza.swift */,
+				5761D89219DB190E007DD786 /* Pizza.swift */,
+				5761D89319DB190E007DD786 /* PizzaOrder.swift */,
+				5761D89419DB190E007DD786 /* Character */,
+				5761D89519DB190E007DD786 /* DecoyDuck.swift */,
+				5761D89619DB190E007DD786 /* DisplayElement.swift */,
+				5761D89719DB190E007DD786 /* Duck.swift */,
+				5761D89819DB190E007DD786 /* DuckSimulator.swift */,
+				5761D89919DB190E007DD786 /* FlyBehavior.swift */,
+				5761D89A19DB190E007DD786 /* FlyNoWay.swift */,
+				5761D89B19DB190E007DD786 /* FlyRocketPowered.swift */,
+				5761D89C19DB190E007DD786 /* FlyWithWings.swift */,
+				5761D89D19DB190E007DD786 /* MallardDuck.swift */,
+				5761D89E19DB190E007DD786 /* ModelDuck.swift */,
+				5761D89F19DB190E007DD786 /* MuteQuack.swift */,
+				5761D8A019DB190E007DD786 /* Quack.swift */,
+				5761D8A119DB190E007DD786 /* QuackBehavior.swift */,
+				5761D8A219DB190E007DD786 /* RedheadDuck.swift */,
+				5761D8A319DB190E007DD786 /* RubberDuck.swift */,
+				5761D8A419DB190E007DD786 /* Squeak.swift */,
+				5761D8A519DB190E007DD786 /* myImage.png */,
+				5761D8A619DB190E007DD786 /* Beverage.swift */,
+				5761D8A719DB190E007DD786 /* CondimentDecorator.swift */,
+				5761D8A819DB190E007DD786 /* CurrentConditionsDisplay.swift */,
+				5761D8A919DB190E007DD786 /* DarkRoast.swift */,
+				5761D8AA19DB190E007DD786 /* Decaf.swift */,
+				5761D8AB19DB190E007DD786 /* Espresso.swift */,
+				5761D8AC19DB190E007DD786 /* HouseBlend.swift */,
+				5761D8AD19DB190E007DD786 /* Mocha.swift */,
+				5761D8AE19DB190E007DD786 /* Size.swift */,
+				5761D8AF19DB190E007DD786 /* Soy.swift */,
+				5761D8B019DB190E007DD786 /* StarbuzzCoffeeSimulator.swift */,
+				5761D8B119DB190E007DD786 /* SteamedMilk.swift */,
+				5761D8B219DB190E007DD786 /* Whip.swift */,
+				5761D8B319DB190E007DD786 /* ForecastDisplay.swift */,
+				5761D8B419DB190E007DD786 /* HeatIndexDisplay.swift */,
+				5761D8B519DB190E007DD786 /* Observer.swift */,
+				5761D8B619DB190E007DD786 /* StatisticsDisplay.swift */,
+				5761D8B719DB190E007DD786 /* Subject.swift */,
+				5761D8B819DB190E007DD786 /* ThirdPartyDisplay.swift */,
+				5761D8B919DB190E007DD786 /* WeatherData.swift */,
+				5761D8BA19DB190E007DD786 /* WeatherSimulator.swift */,
 				5761D86D19DB1796007DD786 /* AppDelegate.swift */,
-				5761D86F19DB1796007DD786 /* ViewController.swift */,
-				5761D87119DB1796007DD786 /* Main.storyboard */,
-				5761D87419DB1796007DD786 /* Images.xcassets */,
-				5761D87619DB1796007DD786 /* LaunchScreen.xib */,
+				5761D88D19DB18E7007DD786 /* main.swift */,
 				5761D86B19DB1796007DD786 /* Supporting Files */,
 			);
 			path = HeadFirstDesignPatterns;
@@ -192,9 +315,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5761D87319DB1796007DD786 /* Main.storyboard in Resources */,
-				5761D87819DB1796007DD786 /* LaunchScreen.xib in Resources */,
-				5761D87519DB1796007DD786 /* Images.xcassets in Resources */,
+				5761D8C019DB190E007DD786 /* Character in Resources */,
+				5761D8D119DB190E007DD786 /* myImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +334,50 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5761D87019DB1796007DD786 /* ViewController.swift in Sources */,
+				5761D8DA19DB190E007DD786 /* Size.swift in Sources */,
+				5761D8C919DB190E007DD786 /* MallardDuck.swift in Sources */,
+				5761D8C319DB190E007DD786 /* Duck.swift in Sources */,
+				5761D8E219DB190E007DD786 /* StatisticsDisplay.swift in Sources */,
+				5761D8C219DB190E007DD786 /* DisplayElement.swift in Sources */,
+				5761D8BB19DB190E007DD786 /* CheesePizza.swift in Sources */,
+				5761D8DD19DB190E007DD786 /* SteamedMilk.swift in Sources */,
+				5761D8CF19DB190E007DD786 /* RubberDuck.swift in Sources */,
+				5761D8DF19DB190E007DD786 /* ForecastDisplay.swift in Sources */,
+				5761D8BD19DB190E007DD786 /* PepperoniPizza.swift in Sources */,
+				5761D8CA19DB190E007DD786 /* ModelDuck.swift in Sources */,
+				5761D8BE19DB190E007DD786 /* Pizza.swift in Sources */,
+				5761D8C619DB190E007DD786 /* FlyNoWay.swift in Sources */,
+				5761D8E619DB190E007DD786 /* WeatherSimulator.swift in Sources */,
+				5761D88E19DB18E7007DD786 /* main.swift in Sources */,
+				5761D8E119DB190E007DD786 /* Observer.swift in Sources */,
+				5761D8BF19DB190E007DD786 /* PizzaOrder.swift in Sources */,
+				5761D8D519DB190E007DD786 /* DarkRoast.swift in Sources */,
+				5761D8D919DB190E007DD786 /* Mocha.swift in Sources */,
+				5761D8CB19DB190E007DD786 /* MuteQuack.swift in Sources */,
+				5761D8CD19DB190E007DD786 /* QuackBehavior.swift in Sources */,
+				5761D8C819DB190E007DD786 /* FlyWithWings.swift in Sources */,
+				5761D8D419DB190E007DD786 /* CurrentConditionsDisplay.swift in Sources */,
+				5761D8E519DB190E007DD786 /* WeatherData.swift in Sources */,
+				5761D8C719DB190E007DD786 /* FlyRocketPowered.swift in Sources */,
+				5761D8DC19DB190E007DD786 /* StarbuzzCoffeeSimulator.swift in Sources */,
+				5761D8C519DB190E007DD786 /* FlyBehavior.swift in Sources */,
+				5761D8CC19DB190E007DD786 /* Quack.swift in Sources */,
+				5761D8C119DB190E007DD786 /* DecoyDuck.swift in Sources */,
+				5761D8E019DB190E007DD786 /* HeatIndexDisplay.swift in Sources */,
+				5761D8D819DB190E007DD786 /* HouseBlend.swift in Sources */,
+				5761D8D219DB190E007DD786 /* Beverage.swift in Sources */,
+				5761D8D619DB190E007DD786 /* Decaf.swift in Sources */,
+				5761D8C419DB190E007DD786 /* DuckSimulator.swift in Sources */,
+				5761D8D019DB190E007DD786 /* Squeak.swift in Sources */,
 				5761D86E19DB1796007DD786 /* AppDelegate.swift in Sources */,
+				5761D8CE19DB190E007DD786 /* RedheadDuck.swift in Sources */,
+				5761D8E419DB190E007DD786 /* ThirdPartyDisplay.swift in Sources */,
+				5761D8DB19DB190E007DD786 /* Soy.swift in Sources */,
+				5761D8BC19DB190E007DD786 /* GreekPizza.swift in Sources */,
+				5761D8E319DB190E007DD786 /* Subject.swift in Sources */,
+				5761D8DE19DB190E007DD786 /* Whip.swift in Sources */,
+				5761D8D719DB190E007DD786 /* Espresso.swift in Sources */,
+				5761D8D319DB190E007DD786 /* CondimentDecorator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -234,25 +398,6 @@
 			targetProxy = 5761D87E19DB1796007DD786 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		5761D87119DB1796007DD786 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5761D87219DB1796007DD786 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5761D87619DB1796007DD786 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5761D87719DB1796007DD786 /* Base */,
-			);
-			name = LaunchScreen.xib;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5761D88519DB1796007DD786 /* Debug */ = {
